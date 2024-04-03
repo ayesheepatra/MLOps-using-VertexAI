@@ -1,1 +1,1 @@
-# MLOps-using-VertexAI
+Trained a classification model using GCP TFX Components.
